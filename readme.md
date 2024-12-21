@@ -8,6 +8,8 @@ The contract allows managers to create events, set rewards, and mark events as c
 
 ## Contract Address
 0x45603A36e4f9d296D8165B1715e20Da5a31d46D2
+![image](https://github.com/user-attachments/assets/5bb54652-8512-45b8-8ead-ae962067ee77)
+
 
 ## Project Vision
 The vision of the Community Event Manager is to streamline event organization in a decentralized manner, providing event managers with a secure platform to create events with rewards. This will enable community-driven activities without relying on centralized intermediaries. By using blockchain technology, the project aims to offer a transparent and reliable environment where managers are rewarded based on the completion of their events.
